@@ -9,3 +9,94 @@ Stable tag: 0.0.4
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+An Open Source Human Resource, CRM & Accounting Solution for WordPress
+
+== Description ==
+
+= Ultimate Company/ Business Management Solution for WordPress =
+
+Get a unique interactive experience of managing your business independently with the most reliable information Storage & system of record on WordPress. WP ERP is the first full-fledged ERP (Enterprise Resource Planning) system through which you can simultaneously manage your WordPress site and business from a single platform.
+
+WP ERP's free version has all the important features you need to manage the basics of your business.
+
+WP ERP has 3 core modules: HR, CRM and Accounting, which together make a complete ERP system for any type of business.
+
+The plugin is so beginner-friendly that all you need is a one-click activation to get started!
+
+== Installation ==
+###Automatic Install From WordPress Dashboard
+
+1. Login to your the admin panel
+2. Navigate to Plugins -> Add New
+3. Search **WP ERP**
+4. Click install and activate respectively.
+
+###Manual Install From WordPress Dashboard
+
+If your server is not connected to the Internet, then you can use this method-
+
+1. Download the plugin by clicking on the red button above. A ZIP file will be downloaded.
+2. Login to your site’s admin panel and navigate to Plugins -> Add New -> Upload.
+3. Click choose file, select the plugin file and click install
+
+###Install Using FTP
+
+If you are unable to use any of the methods due to internet connectivity and file permission issues, then you can use this method-
+
+1. Download the plugin by clicking on the red button above.A ZIP file will be downloaded.
+2. Unzip the file.
+3. Launch your favourite FTP client. Such as FileZilla, FireFTP, CyberDuck etc. If you are a more advanced user, then you can use SSH too.
+4. Upload the folder to wp-content/plugins/
+5. Log in to your WordPress dashboard.
+6. Navigate to Plugins -> Installed
+7. Activate the plugin
+
+
+== Frequently Asked Questions ==
+
+= Can I use only one module (like- only HRM or CRM or Accounting)? =
+Yes, you definitely can! The whole plugin is divided into three parts- HR, CRM, Accounting based on features and the source code is separated for each module. So you can turn on/off any module you like from- “ERP Settings -> Modules.”
+
+= Can I Translate WP ERP? =
+Yes, the plugin is fully translation ready. You can [translate the plugin](https://translate.wordpress.org/projects/wp-plugins/erp) if your language is missing.
+
+= Do you have any video tutorial on WP ERP? =
+Yes, we have some helpful videos on our [youtube channel](https://www.youtube.com/channel/UC7PaXj-qWPOM378L11QJyIQ).
+
+= How can I suggest for new features? =
+We would love to hear your suggestions! Feel free to [submit them here](https://wperp.com/submit-ideas/).
+
+= Can I bulk import employees, contacts etc? =
+Yes, you can import employees, contacts via CSV file by just navigating to-
+“ERP Settings -> Tools -> Import”
+
+= Can I use WP ERP from the front end? =
+You can use HR module from the frontend by using “HR Frontend” extension. The CRM & Accounting module does not have a frontend right now.
+
+= Is WP ERP capable to handle attendance? =
+Yes! We have an extension- Attendance that has the check-in, check-out feature along with attendance report generator and much more.
+
+= Is WP ERP capable to handle a huge amount of data? =
+Yes, of course! Many of our clients are using WP ERP to manage their business with 3000+ employees,2000+ customers/contacts without any hassle.
+
+= What are your support timings? =
+Our general live support hours are Saturday to Thursday, 07:00 to 15:00 (GMT +6).
+
+= What is the average response time in your support thread? =
+We strive to respond all queries within 12 hours. Our response time may be just 1 hour if you reach us in our working hours!
+
+It may take longer to respond to more advanced or technical queries. We promise to serve and support you in the best way possible, which can sometimes take time, but you will be assured the best service.
+
+= Does WP ERP support WordPress multisite installation? =
+No, WP ERP and its add-ons do not support multisite WordPress installation.
+
+
+== Changelog ==
+
+= v1.6.4 -> August 25, 2020 =
+--------------------------
+- [tweak] changed ERP PRO class references
+- [new] revoke access of hrm, crm and accounting modules if employee status is not active
+- [new] added various erp user count on Status report page
+- [fix] Optimized code for better security
