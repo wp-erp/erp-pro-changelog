@@ -53,7 +53,7 @@ If you are unable to use any of the methods due to internet connectivity and fil
 7. Activate the plugin
 
 
-== Frequently Asked Questions ==
+== FAQ ==
 
 = Can I use only one module (like- only HRM or CRM or Accounting)? =
 Yes, you definitely can! The whole plugin is divided into three parts- HR, CRM, Accounting based on features and the source code is separated for each module. So you can turn on/off any module you like from- “ERP Settings -> Modules.”
@@ -91,6 +91,8 @@ It may take longer to respond to more advanced or technical queries. We promise 
 = Does WP ERP support WordPress multisite installation? =
 No, WP ERP and its add-ons do not support multisite WordPress installation.
 
+== Other Notes ==
+
 
 == Changelog ==
 
@@ -100,3 +102,5 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 - [new] revoke access of hrm, crm and accounting modules if employee status is not active
 - [new] added various erp user count on Status report page
 - [fix] Optimized code for better security
+
+== Upgrade Notice ==
