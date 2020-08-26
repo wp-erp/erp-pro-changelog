@@ -37,14 +37,14 @@ The plugin is so beginner-friendly that all you need is a one-click activation t
 If your server is not connected to the Internet, then you can use this method-
 
 1. Download the plugin by clicking on the red button above. A ZIP file will be downloaded.
-2. Login to your site’s admin panel and navigate to Plugins -> Add New -> Upload.
+2. Login to your site's admin panel and navigate to Plugins -> Add New -> Upload.
 3. Click choose file, select the plugin file and click install
 
 ###Install Using FTP
 
 If you are unable to use any of the methods due to internet connectivity and file permission issues, then you can use this method-
 
-1. Download the plugin by clicking on the red button above.A ZIP file will be downloaded.
+1. Download the plugin by clicking on the red button above. A ZIP file will be downloaded.
 2. Unzip the file.
 3. Launch your favourite FTP client. Such as FileZilla, FireFTP, CyberDuck etc. If you are a more advanced user, then you can use SSH too.
 4. Upload the folder to wp-content/plugins/
@@ -56,7 +56,7 @@ If you are unable to use any of the methods due to internet connectivity and fil
 == FAQ ==
 
 = Can I use only one module (like- only HRM or CRM or Accounting)? =
-Yes, you definitely can! The whole plugin is divided into three parts- HR, CRM, Accounting based on features and the source code is separated for each module. So you can turn on/off any module you like from- “ERP Settings -> Modules.”
+Yes, you definitely can! The whole plugin is divided into three parts- HR, CRM, Accounting based on features and the source code is separated for each module. So you can turn on/off any module you like from- "ERP Settings -> Modules."
 
 = Can I Translate WP ERP? =
 Yes, the plugin is fully translation ready. You can [translate the plugin](https://translate.wordpress.org/projects/wp-plugins/erp) if your language is missing.
@@ -69,10 +69,10 @@ We would love to hear your suggestions! Feel free to [submit them here](https://
 
 = Can I bulk import employees, contacts etc? =
 Yes, you can import employees, contacts via CSV file by just navigating to-
-“ERP Settings -> Tools -> Import”
+"ERP Settings -> Tools -> Import"
 
 = Can I use WP ERP from the front end? =
-You can use HR module from the frontend by using “HR Frontend” extension. The CRM & Accounting module does not have a frontend right now.
+You can use HR module from the frontend by using "HR Frontend" extension. The CRM & Accounting module does not have a frontend right now.
 
 = Is WP ERP capable to handle attendance? =
 Yes! We have an extension- Attendance that has the check-in, check-out feature along with attendance report generator and much more.
