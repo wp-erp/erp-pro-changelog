@@ -1,28 +1,68 @@
-=== WP ERP PRO ===
-Contributors: tareq1988, nizamuddinbabu, wedevs, zikubd
+=== WP ERP Pro - The Ultimate Company & Business Management Solution ===
+Contributors: tareq1988, nizamuddinbabu, wedevs
 Donate Link: https://tareq.co/donate
 Tags: business manager, erp, accounting, crm, hr, project manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
 Tested up to: 5.5
 Requires PHP: 5.6
-Stable tag: 0.0.9
+Stable tag: 1.0.0
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-An Open Source Human Resource, CRM & Accounting Solution for WordPress
 
 == Description ==
 
-= Ultimate Company/ Business Management Solution for WordPress =
+= WP ERP Pro - The Ultimate Company & Business Management Solution =
 
-Get a unique interactive experience of managing your business independently with the most reliable information Storage & system of record on WordPress. WP ERP is the first full-fledged ERP (Enterprise Resource Planning) system through which you can simultaneously manage your WordPress site and business from a single platform.
+Automate & Manage your growing business even better using Human Resource, Customer Relations, Accounts Management right inside your WordPress
 
-WP ERP's free version has all the important features you need to manage the basics of your business.
+= Why WP ERP Pro =
 
-WP ERP has 3 core modules: HR, CRM and Accounting, which together make a complete ERP system for any type of business.
+Build a modern, convenient and reliable business management system for your company
 
-The plugin is so beginner-friendly that all you need is a one-click activation to get started!
+* Gain access to nine powerful extensions with a single purchase (Use these premium extensions to supercharge your business)
+* Add other individual extensions which suit your business (Only add those extensions which you need & save your money)
+* Priority support system (Connecting you to our highly-qualified support team 24/7/365)
+* Save money: User-based Pricing (You are billed for each user added to your user workspace. (Great value for startups & small businesses))
+* Easy & simple to upgrade or downgrade (Making changes to your WP ERP Pro plan is simple and most changes will be effective immediately)
+
+
+= What you will get =
+
+Take your business to the next level with 9 accessible premium extensions & different features
+
+* **[Advanced Leave Management](https://wperp.com/downloads/advanced-leave-management/)**: Create and manage multiple types of leave across your organization.
+* **[WP ERP HR Frontend](https://wperp.com/downloads/hr-frontend/)**: Bring the powerful HR Module of WP ERP to your web front using this handy extension. Let staff check-in, check-out, and even take leaves from the web-front.
+* **[Awesome Support Sync](https://wperp.com/downloads/awesome-support-sync/)**: Using Awesome Support to provide support to your customers? Easily bring them to your CRM so you get full relationship management features!
+* **[Gravity Forms Sync](https://wperp.com/downloads/crm-gravity-forms/)**: Create users in CRM module automatically with the data you receive on a form created by Gravity Forms.
+* **[Help Scout Integration](https://wperp.com/downloads/help-scout-integration/)**: Sync Help Scout contacts with your CRM & view your CRM contact data on Help Scout with this two-way integration!
+* **[Mailchimp Contacts Sync](https://wperp.com/downloads/mailchimp-contacts-sync/):** Import and Sync all your MailChimp mailing lists into WP-ERP CRM system and vice versa.
+* **[Salesforce Contacts Sync](https://wperp.com/downloads/salesforce-contact-sync/)**: Import and Sync all your SalesForce mailing lists into WP-ERP CRM system and vice versa.
+* **[Hubspot Contacts Sync](https://wperp.com/downloads/hubspot-contacts-sync/)**: Import and Sync all your Hubspot contacts into WP-ERP CRM system and vice versa.
+* **[Zendesk Integration](https://wperp.com/downloads/zendesk-integration/)**: Increase CRM contacts, lead and customers by integrating Zendesk ticket support system and respond to clients faster.
+
+= Choose other extensions that match your business =
+
+* **[Payment Gateway](https://wperp.com/downloads/payment-gateway/)**: This feature extension allows you to take payments from most popular payment gateways- PayPal and Stripe.
+* **[Recruitment](https://wperp.com/downloads/recruitment/)**: This is a Job Manager and complete Job Vacancy, Resume and Employment Manager. You can directly create, publish and manage your recruitment from your WordPress powered company website, as well as manage candidates.
+experience.
+* **[Attendance](https://wperp.com/downloads/attendance/)**: Track work hours of your employees and balance them with their leaves with this feature extension.
+* **[Training](https://wperp.com/downloads/training/)**: Monitor training programs for different teams & employees.
+* **[WoCommerce Integration](https://wperp.com/downloads/woocommerce-crm/)**: Sync your WooCommerce order details and customer data with WP ERP and allow your CRM agent to track your sales.
+* **[Custom Field Builder](https://wperp.com/downloads/custom-field-builder/)**: Add more fields to your ERP forms.
+* **[Payroll](https://wperp.com/downloads/payroll/)**: Manage your employee salaries more easily and automate the payment system with this amazing extension of WP ERP
+* **[Deals](https://wperp.com/downloads/deals/)**: Deals is a great tool to manage and guide your CRM agents on a faster and organized sales process.
+* **[Workflow](https://wperp.com/downloads/workflow/)**: Automate actions in your ERP system with this advanced extension. Save time and reduce the margin of error.
+* **[Reimbursement](https://wperp.com/downloads/reimbursement/)**: Manage your employee expenses and complete payments in an easy and effective way using ERP Reimbursement.
+* **[Document Manager](https://wperp.com/downloads/document-manager/)**: Store and access your company and employee documents on-site.
+* **[Inventory](https://wperp.com/downloads/inventory/)**: Stock management for your products within your accounting software.
+* **[Asset Manager](https://wperp.com/downloads/asset-manager/)**: Create your company assets virtually, assign them to employees and keep track of all your company assets in one place.
+
+
+= The best pricing is here for you: Pay per user =
+
+For WP ERP Pro you are billed for each user added to the user workspace. You can add as many users and extensions as you need. (Great value for startups & small businesses)
 
 == Frequently Asked Questions ==
 
