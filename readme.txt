@@ -102,8 +102,37 @@ It may take longer to respond to more advanced or technical queries. We promise 
 = Does WP ERP support WordPress multisite installation? =
 No, WP ERP and its add-ons do not support multisite WordPress installation.
 
+== Installation ==
+###Automatic Install From WordPress Dashboard
 
-== Other Notes ==
+1. Login to your the admin panel
+2. Navigate to Plugins -> Add New
+3. Search **WP ERP**
+4. Click install and activate respectively.
+
+###Manual Install From WordPress Dashboard
+
+If your server is not connected to the Internet, then you can use this method-
+
+1. Download the plugin by clicking on the red button above. A ZIP file will be downloaded.
+2. Login to your site’s admin panel and navigate to Plugins -> Add New -> Upload.
+3. Click choose file, select the plugin file and click install
+
+###Install Using FTP
+
+If you are unable to use any of the methods due to internet connectivity and file permission issues, then you can use this method-
+
+1. Download the plugin by clicking on the red button above.A ZIP file will be downloaded.
+2. Unzip the file.
+3. Launch your favourite FTP client. Such as FileZilla, FireFTP, CyberDuck etc. If you are a more advanced user, then you can use SSH too.
+4. Upload the folder to wp-content/plugins/
+5. Log in to your WordPress dashboard.
+6. Navigate to Plugins -> Installed
+7. Activate the plugin
+
+== License Upgrade ==
+
+this is test license upgrade instructions.
 
 
 == Changelog ==
