@@ -66,27 +66,62 @@ For WP ERP Pro you are billed for each user added to the user workspace. You can
 
 == Frequently Asked Questions ==
 
+= How am I billed? =
+You are billed for WP ERP Pro, each user added to your user workspace, and the additionally purchased extensions for your business. You can add as many users and extensions as you need.
+
+= I require one/ some specific extension(s) for my business. Can those be included in the WP ERP PRO plan? =
+Yes, definitely you can add extensions as per your need. You can upgrade/ downgrade any time you want.
+
+= Do I have to pay for my clients to access WP ERP Pro? =
+No. You only pay for users related to WP ERP Pro like CRM Manager, CRM Agent, Accounting Manager, HR Manager & Employees. You may have an unlimited number of clients to collaborate.
+
+= Are there limits on the number of users? =
+No, WP ERP Pro is fully capable of scaling to support the largest teams. You can add as many users as you'd need, no matter how many extensions you use. You can also add more users as you grow. Check out our pricing for more information.
+
+= Can I change my plan? =
+You can switch extensions, change the number of users, upgrade or downgrade your plan any time you want or during the billing period, without any consequences. Additional charges will be automatically prorated.
+
+= Where to find my upgraded/ downgraded WP ERP Pro file? =
+You can find the upgraded/ downgraded file from your ‘My Account’ section of WP ERP site or directly from WordPress dashboard. Visit My Account > Orders; Download your Zip file, delete the previous version WP ERP Pro and install the new one. Or, Go to WordPress Dashboard > Updates; The ‘Update’ notification should be seen in your WordPress dashboard directory. You can easily update to the latest version from there.
+
+= Is there an affiliate program for WP ERP Pro? =
+We’ve got a robust affiliate system that is 100% free, and you’ll be paid for every referral made through your unique link. As a WP ERP Pro affiliate partner, you'll get 20% recurring commissions on your sales for WP ERP Pro. You can apply to become a WP ERP Pro affiliate partner here.
+
+= What do I need to use WP ERP? =
+WP ERP requires at least WordPress 4.4 or above, PHP v5.6 or above, and a modern web browser for viewing the admin dashboard.
+
+= Does WP ERP work on WordPress.com? =
+Yes, WP ERP is compatible with WordPress.com platform if you are using the Business plan (which allows WordPress.com users to install plugins). WP ERP is compatible with all normal WordPress installs.
+
+= Can I use WP ERP on non-WordPress sites? =
+No, WP ERP is a WordPress plugin, so it will not work on sites that do not use WordPress as its primary CMS.
+
+= Can I translate WP ERP in my language? =
+Yes, WP ERP is 100% translation and localization ready.
+
+= How do support and updates work for WP ERP? =
+Our users insert a single license key into the settings panel. Entering the valid license key allows users to get the same 1 click updates through the admin dashboard as any other WordPress plugin. Support is available via live chat, email and contact forms. Support is also available through the support tab of the My Account page on this site.
+
+= Do you offer refunds? =
+We guarantee 100% satisfaction with our help & support service. However, if our plugin still doesn’t meet your needs, please inform us. We’ll happily refund 100% of your money within 14 days of your purchase. No questions asked. However, we do not refund if the product has been purchased on a discount.
+
+= Who should use WP ERP? =
+WP ERP is the leading online business management solution for all types of small and medium-sized businesses that want to track and grow their ventures. WP ERP is also suitable for eCommerce businesses and service providers. If you want to take care of your employees, customers, projects, and finances all-together in a single platform on the web and make it seamlessly manageable, then you need WP ERP.
+
+= Do I need to have coding skills to use WP ERP? =
+Absolutely not. You can instantly add your business data and information to WP ERP, and get started managing your operations in no time without any coding knowledge. We made WP ERP extremely user friendly so you can track and take care of your business on the web without hiring a developer.
+
+= Can I use WP ERP on client sites? =
+Yes, you can most definitely use WP ERP on your client websites. Should you need customizations you can always let us know and get everything you need to deliver a top-notch experience for your clients.
+
 = Can I use only one module (like- only HRM or CRM or Accounting)? =
 Yes, you definitely can! The whole plugin is divided into three parts- HR, CRM, Accounting based on features and the source code is separated for each module. So you can turn on/off any module you like from- "ERP Settings -> Modules."
-
-= Can I Translate WP ERP? =
-Yes, the plugin is fully translation ready. You can [translate the plugin](https://translate.wordpress.org/projects/wp-plugins/erp) if your language is missing.
 
 = Do you have any video tutorial on WP ERP? =
 Yes, we have some helpful videos on our [youtube channel](https://www.youtube.com/channel/UC7PaXj-qWPOM378L11QJyIQ).
 
 = How can I suggest for new features? =
 We would love to hear your suggestions! Feel free to [submit them here](https://wperp.com/submit-ideas/).
-
-= Can I bulk import employees, contacts etc? =
-Yes, you can import employees, contacts via CSV file by just navigating to-
-"ERP Settings -> Tools -> Import"
-
-= Can I use WP ERP from the front end? =
-You can use HR module from the frontend by using "HR Frontend" extension. The CRM & Accounting module does not have a frontend right now.
-
-= Is WP ERP capable to handle attendance? =
-Yes! We have an extension- Attendance that has the check-in, check-out feature along with attendance report generator and much more.
 
 = Is WP ERP capable to handle a huge amount of data? =
 Yes, of course! Many of our clients are using WP ERP to manage their business with 3000+ employees,2000+ customers/contacts without any hassle.
@@ -96,52 +131,16 @@ Our general live support hours are Saturday to Thursday, 07:00 to 15:00 (GMT +6)
 
 = What is the average response time in your support thread? =
 We strive to respond all queries within 12 hours. Our response time may be just 1 hour if you reach us in our working hours!
-
 It may take longer to respond to more advanced or technical queries. We promise to serve and support you in the best way possible, which can sometimes take time, but you will be assured the best service.
 
 = Does WP ERP support WordPress multisite installation? =
 No, WP ERP and its add-ons do not support multisite WordPress installation.
 
-== Installation ==
-###Automatic Install From WordPress Dashboard
-
-1. Login to your the admin panel
-2. Navigate to Plugins -> Add New
-3. Search **WP ERP**
-4. Click install and activate respectively.
-
-###Manual Install From WordPress Dashboard
-
-If your server is not connected to the Internet, then you can use this method-
-
-1. Download the plugin by clicking on the red button above. A ZIP file will be downloaded.
-2. Login to your site’s admin panel and navigate to Plugins -> Add New -> Upload.
-3. Click choose file, select the plugin file and click install
-
-###Install Using FTP
-
-If you are unable to use any of the methods due to internet connectivity and file permission issues, then you can use this method-
-
-1. Download the plugin by clicking on the red button above.A ZIP file will be downloaded.
-2. Unzip the file.
-3. Launch your favourite FTP client. Such as FileZilla, FireFTP, CyberDuck etc. If you are a more advanced user, then you can use SSH too.
-4. Upload the folder to wp-content/plugins/
-5. Log in to your WordPress dashboard.
-6. Navigate to Plugins -> Installed
-7. Activate the plugin
-
-== Other Notes ==
-
-this is test license upgrade instructions.
-
 
 == Changelog ==
 
-= v1.6.4 -> August 25, 2020 =
+= v1.0.0 -> September, 2020 =
 --------------------------
-- [tweak] changed ERP PRO class references
-- [new] revoke access of hrm, crm and accounting modules if employee status is not active
-- [new] added various erp user count on Status report page
-- [fix] Optimized code for better security
+- Initial Release of ERP PRO
 
 == Upgrade Notice ==
