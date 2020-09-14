@@ -130,7 +130,7 @@ If you are unable to use any of the methods due to internet connectivity and fil
 6. Navigate to Plugins -> Installed
 7. Activate the plugin
 
-== License Upgrade ==
+== Other Notes ==
 
 this is test license upgrade instructions.
 
