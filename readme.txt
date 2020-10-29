@@ -3,9 +3,9 @@ Contributors: tareq1988, nizamuddinbabu, wedevs
 Donate Link: https://tareq.co/donate
 Tags: business manager, erp, accounting, crm, hr, project manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
-Tested up to: 5.5
+Tested up to: 5.5.1
 Requires PHP: 5.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,36 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 
 == Changelog ==
+
+= v1.0.1 -> October 29, 2020 =
+--------------------------
+
+**ERP Pro Core**
+- [new] Added Digest email for HR Manager
+- [new] Added customisable CRM life stages to make the life stages dynamic
+- [new] Added CRM task management feature
+- [fix] Fixed issues when activating/deactivating modules
+- [fix] Fixed Zendesk redirect issue in case of api error
+- [fix] Fixed reimbursement update notification issue
+
+**Extension- Attendance**
+- [new] Added functionality to go specific date while editing attendance
+- [new] Added date filter at attendance page
+- [fix] Fixed hr entry status & editing issue
+
+**Extension- Deals**
+- [fix] Fixed role based permission issue CRM Deals at overview page
+- [new] Added number of qualified leads funnel chart in deals overview
+- [new] Added lead generation bar chart in deals overview
+- [new] Added lead response time bar chart in deals overview
+- [new] Added deal lost reason bar chart in deals overview
+- [new] Added top sales person bar chart with export report option in deals overview
+- [new] Added win vs lost deals grouped bar chart in deals overview
+- [new] Added number of follow-up meetings bar chart in deals overview
+
+**Extension - WooCommerce**
+- [new] Added WooCommerce Category and Product Synchronisation
+- [update] Fixed WooCommerce Order Synchronisation issues
 
 = v1.0.0 -> September, 2020 =
 --------------------------
