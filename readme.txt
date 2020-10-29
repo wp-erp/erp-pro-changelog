@@ -141,7 +141,7 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 = v1.0.2 -> October 29, 2020 =
 --------------------------
-**ERP PRP Core**
+**ERP PRO Core**
 - [fix] fixed composer auto loading issue for some classes
 - [fix] fixed fatal error on dynamic life stage for older version of erp pro
 
