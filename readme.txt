@@ -3,9 +3,9 @@ Contributors: tareq1988, nizamuddinbabu, wedevs
 Donate Link: https://tareq.co/donate
 Tags: business manager, erp, accounting, crm, hr, project manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
-Tested up to: 5.5.1
+Tested up to: 5.5.3
 Requires PHP: 5.6
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,22 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 
 == Changelog ==
+
+= v1.0.3 -> November 12, 2020 =
+--------------------------
+
+**ERP Pro Core**
+- [new] Added new design at license page
+
+**Extension- Payroll**
+- [new] Added Bulk Edit for setting Employe pay item
+- [update] Updated pay-run filtering
+- [update] Updated pay calendar with basic payment and filtering support lowercase for employee name
+- [fix] Fixed pay run system and calendar create system and also UI fix
+- [fix] Fixed dashboard 'Last 5 Pay-run Record
+- [fix] Fixed payslip report for Individual Employe and from Employe Dashboard
+- [fix] Fixed pay-run details report and  CSV Export
+- [fix] Fixed settings UI and remove Amount type field from pay item
 
 = v1.0.2 -> October 29, 2020 =
 --------------------------
