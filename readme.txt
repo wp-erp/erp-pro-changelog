@@ -5,7 +5,7 @@ Tags: business manager, erp, accounting, crm, hr, project manager, small busines
 Requires at least: 4.4
 Tested up to: 5.5.3
 Requires PHP: 5.6
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,31 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 
 == Changelog ==
+
+= v1.0.4 -> November 30, 2020 =
+--------------------------
+
+**ERP Pro Core**
+- [update] Updated showing all the dates in the frontend according to the ERP date format setting
+
+**Extension- Inventory**
+- [update] Updated showing all the dates in the frontend according to the ERP date format setting
+
+**Extension- Attendance**
+- [new] Added shift holidays to hr calendar
+- [new] Added shift based day off count for leave request
+- [fix] Fixed shift based weekend calendar color
+- [fix] Fixed attendance dashboard PI chart not loading issue for hr manager
+- [update] Updated showing all the dates in the frontend according to the ERP date format setting
+
+**Extension- Recruitment**
+- [update] Updated showing all the dates in the frontend according to the ERP date format setting
+
+**Extension- Reimbursement**
+- [update] Updated showing all the dates in the frontend according to the ERP date format setting
+
+**Extension- Custom Field Builder**
+- [update] Updated synchronization between custom form fields of vendors while importing or exporting CSV data
 
 = v1.0.3 -> November 12, 2020 =
 --------------------------
