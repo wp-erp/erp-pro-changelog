@@ -3,9 +3,9 @@ Contributors: tareq1988, nizamuddinbabu, wedevs
 Donate Link: https://tareq.co/donate
 Tags: business manager, erp, accounting, crm, hr, project manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
-Tested up to: 5.5.3
+Tested up to: 5.6
 Requires PHP: 5.6
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,40 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 
 == Changelog ==
+
+= v1.0.5 -> December 31, 2020 =
+--------------------------
+
+**ERP Pro Core**
+- [update] Updated audit logger to log all possible actions
+- [update] Updated license page design
+- [fix] Fixed CRM tasks not loading issue for database with binary charset
+
+**Extension- Asset Management**
+- [new] Added audit logger to log all possible actions
+
+**Extension- Attendance**
+- [new] Added audit logger to log all possible actions
+- [new] Added action to remove employee from assigned shift and date shift when the employee is not active
+- [fix] Fixed mobile edit issue
+
+**Extension- HR Training**
+- [new] Added audit logger to log all possible actions
+
+**Extension- Recruitment**
+- [new] Added audit logger to log all possible actions
+- [new] Added experience area and type options while adding and updating opening
+- [update] Updated job opening frontend to show experience area and type
+
+**Extension- Reimbursement**
+- [new] Added audit logger to log all possible actions
+
+**Extension- Deals**
+- [new] Added last update notice for each deal so that user can identify when a deal was last updated
+- [update] Updated deals history tracker to show deal value in each stage
+
+**Extension- Document Manager**
+- [update] Updated audit logger to log all possible actions
 
 = v1.0.4 -> November 30, 2020 =
 --------------------------
