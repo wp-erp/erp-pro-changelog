@@ -3,9 +3,9 @@ Contributors: tareq1988, nizamuddinbabu, wedevs
 Donate Link: https://tareq.co/donate
 Tags: business manager, erp, accounting, crm, hr, project manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
-Tested up to: 5.6
+Tested up to: 5.7
 Requires PHP: 5.6
-Stable tag: 1.0.5
+Stable tag: 1.1.0
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,75 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 
 == Changelog ==
+
+= v1.1.0 -> March 15, 2021 =
+--------------------------
+
+**ERP Pro Core**
+- [new] Added sales return feature in accounting
+- [new] Added purchase return feature in accounting
+- [update] Updated menu arrangement to group some menus under their parent menu to make the arrangement more organized
+
+**Extension - Document Manager**
+- [update] Updated settings tab to move it inside Integration tab
+- [update] Updated dropbox notice to inform with the details error notice
+- [fix] Fixed dropbox api integration to validate the connection
+
+**Extension - WooCommerce**
+- [new] Added product duplication feature while importing products from WooCommerce
+- [fix] Fixed calculation error in invoice while importing order from WooCommerce
+
+**Extension - Recruitment**
+- [new] Added filter ‘erp_modify_rec_list_template’ on template for job listing page
+- [fix] Fixed recruitment filtering api issue
+- [fix] Fixed some design overlap issues on recruitment
+
+**Extension - Attendance**
+- [fix] Fixed attendance date shift routing issue
+
+**Extension - Reimbursement**
+- [update] Updated arrangement of reimbursement menu to move it inside transactions
+- [update] Updated reimbursement page to integrate the request lists option inside the main page
+- [fix] Fixed reimbursement requests list was not loading
+
+**Extension - Payroll**
+- [update] Updated settings tab to move it inside HR tab
+- [fix] Fixed payroll email notifier was not working
+
+**Extension - Awesome Support**
+- [new] Added a new submenu inside Integration menu
+- [update] Updated settings tab to move it inside Integration tab
+
+**Extension - SMS Notification**
+- [update] Updated settings tab to move it inside Integration tab
+
+**Extension - HubSpot Contacts Sync**
+- [update] Updated menu arrangement to move it inside Integration menu
+
+**Extension - Mailchimp Contacts Sync**
+- [update] Updated menu arrangement to move it inside Integration menu
+
+**Extension - Salesforce Contacts Sync**
+- [update] Updated menu arrangement to move it inside Integration menu
+
+**Extension - HelpScout Integration**
+- [update] Updated settings tab to move it inside Integration tab
+
+**Extension - Zendesk**
+- [update] Updated settings tab to move it inside Integration tab
+
+**Extension - Gravity Forms Integration**
+- [update] Updated integration settings as contact forms settings tab has been moved inside CRM tab
+
+**Extension - Payment Gateway**
+- [update] Updated settings tab to move it inside Accounting tab
+
+**Extension - Inventory**
+- [update] Updated menu arrangement to move it inside Products menu
+
+**Extension - Asset Manager**
+- [update] Updated menu to rename it to ‘Assets’
+
 
 = v1.0.5 -> December 31, 2020 =
 --------------------------
