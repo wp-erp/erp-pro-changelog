@@ -139,6 +139,36 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 == Changelog ==
 
+= v1.1.1 -> April 16, 2021 =
+--------------------------
+
+**ERP Pro Core**
+- [update] Deactivation of modules when user limit exceeds
+- [fix] Some package compatibility issues
+
+**Extension - Custom Field Builder**
+- [update] Optimized some backend process to make usability smoother
+- [fix] Issues of rendering select, radio, checkbox input types with proper information and validation
+- [fix] Custom input fields issues of parsing and rendering values in customers and vendors
+
+**Extension - Attendance**
+- [fix] Filtering attendance report was not working properly
+- [fix] Multiple shifts creation with same time but different holidays was not allowed
+- [fix] Validation for updating shift was not working properly
+- [fix] Timepicker for shift forms was not working correctly
+- [fix] Shift duration was showing wrong in some cases
+
+**Extension - Deals**
+- [update] All the AJAX action names are wrapped with prefix to avoid any kind of conflicts
+- [fix] Time filtering was not working correctly for activity progress chart on deals overview
+
+**Extension - Recruitment**
+- [fix] Attached documents were not readable
+
+**Extension - SMS Notification**
+- [fix] Some sms gateways were not working properly
+
+
 = v1.1.0 -> March 15, 2021 =
 --------------------------
 
