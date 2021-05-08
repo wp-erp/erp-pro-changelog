@@ -5,7 +5,7 @@ Tags: business manager, erp, accounting, crm, hr, project manager, small busines
 Requires at least: 4.4
 Tested up to: 5.7.1
 Requires PHP: 5.6
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,76 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 
 == Changelog ==
+
+= v1.1.2 -> May 08, 2021 =
+--------------------------
+
+**ERP Pro Core**
+- [update] Backend optimization to make the usability smoother
+- [update] Caching functionality in missing area for faster performance
+- [fix] All existing caching issues
+- [fix] Some report listings were not working properly
+- [fix] Some backend minor issues in tasks
+
+**Extension - Payroll**
+- [new] Hourly pay calendar type has been added
+- [new] Hourly payment will be calculated based on work time from attendance
+- [new] Attendance based dynamic pay item amount calculation
+- [new] Employee will be removed from payroll when employee is not active
+- [update] Only available employees will be showed in the dropdown for each calendar respectively
+- [update] Necessary dates has to be applied before listing employees while creating a pay calendar
+- [update] Proper sync between pay calendar type and employee pay type has been assured
+- [update] Some more elegant frontend designs to make usability smoother
+- [update] Codebase and database efficiency towards faster performance
+- [update] All raw strings has been made translatable
+- [fix] Updater was not working properly
+- [fix] Pay items were unable to delete
+- [fix] Redirect url was wrong while updating payrun
+- [fix] Proper error/warning notices were not showed for pay calendar and pay run
+- [fix] Basic pay was not parsed correctly in some cases
+- [fix] Employees without department and designation were not allowed to be added in pay calendar
+- [fix] Some backend data sanitizations were not applied properly
+
+**Extension - Recruitment**
+- [new] Referral source information when submitting an application to track where most applicants come from.
+- [update] Referral source history to applicant detail page.
+- [update] Caching functionality in missing area for faster performance
+- [fix] All existing caching issues
+- [fix] Order, Filter, Count of recruitment list
+- [fix] Ordering by applicant count and filtering on Opening Jobs were not working correctly
+- [fix] Some spelling on hiring modal
+- [fix] Required labels were not showing on recruitment employee make page
+
+**Extension - WooCommerce**
+- [update] Caching functionality for faster performance
+- [fix] DB tables don't create properly in some cases
+- [fix] Product synchronization was not giving correct information about number of product synced
+- [fix] Component templates were not loading
+
+**Extension - Asset Management**
+- [update] Caching functionality in missing area for faster performance
+- [fix] All existing caching issues
+- [fix] Validation added in Asset Return date, approval return date, assign return date
+- [fix] Some undefined issues on asset management
+- [fix] Assign Asset button modal was not opening from employee profile tab
+
+**Extension - Deals**
+- [update] Caching functionality for faster performance
+- [fix] Some date filtering compatibility issues
+
+**Extension - Inventory**
+- [update] Caching functionality for faster performance
+- [fix] Inventory total count was showing wrong
+
+**Extension - Attendance**
+- [update] Caching functionality for faster performance
+
+**Extension - Document Manager**
+- [update] Caching functionality for faster performance
+
+**Extension - HR Training**
+- [update] Caching functionality for faster performance
+
 
 = v1.1.1 -> April 16, 2021 =
 --------------------------
