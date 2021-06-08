@@ -3,9 +3,9 @@ Contributors: tareq1988, nizamuddinbabu, wedevs
 Donate Link: https://tareq.co/donate
 Tags: business manager, erp, accounting, crm, hr, project manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
-Tested up to: 5.7.1
+Tested up to: 5.7.2
 Requires PHP: 5.6
-Stable tag: 1.1.2
+Stable tag: 1.2.0
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,50 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 
 == Changelog ==
+
+= v1.2.0 -> June 08, 2021 =
+--------------------------
+
+**ERP Pro Core**
+- [new] Resignation requests feature for employees
+- [new] Email notification to HR on resign request
+- [new] A new button for resign request in employee profile actions
+- [new] Remote work feature for employees
+- [new] A new tab in employee single page to show remote work history
+- [new] A new button for remote work request in leave calendar
+- [new] Remote work tab in the HR settings page to enable/disable remote work
+- [update] Some backend optimization for better usability
+
+**Extension - Reimbursements**
+- [new] Added reimbursement requests in Request table
+- [update] Reimbursement request API has been updated for different filtering
+- [update] Updated api to filter reimbursement requests by status
+- [update] Optimized localization for reimbursement script
+- [fix] Some design inconsistency on create receipt page
+
+**Extension - Asset Management**
+- [new] Added asset requests in Request table
+- [update] Asset request API has been updated for different filtering
+
+**Extension - Attendance**
+- [update] After deleting a shift, if the shift appears in any history, it will be indicated as inactive for better understanding
+- [fix] Employees were existing in previous date shift when updating or switching shift in some cases
+- [fix] Duplicate shift checker was comparing deleted shifts as well
+
+**Extension - Payroll**
+- [update] Optimized some library script and stylesheets in Payroll
+- [fix] Department dropdown was not showing all departments in some cases
+
+**Extension - SMS Notification**
+- [update] Twilio library upgrade to avoid any kind of incompatibility
+
+**Extension - WooCommerce**
+- [update] Optimized some db schema definition to avoid possible issues in some cases
+- [fix] Contact profile details page view was not loading when any order of that contact contains any deleted product
+
+**Extension - Inventory**
+- [update] Optimized localization for inventory scripts
+
 
 = v1.1.2 -> May 08, 2021 =
 --------------------------
