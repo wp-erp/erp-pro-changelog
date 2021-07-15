@@ -5,7 +5,7 @@ Tags: business manager, erp, accounting, crm, hr, project manager, small busines
 Requires at least: 4.4
 Tested up to: 5.7.2
 Requires PHP: 5.6
-Stable tag: 1.2.1
+Stable tag: 1.2.2
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -139,6 +139,72 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 == Changelog ==
 
+= v1.2.2 -> July 15, 2021 =
+--------------------------
+
+**ERP Pro Core**
+- [update] A brand new look all over the settings. The usability will be smoother and more comfortable with this new UI/UX
+- [fix] Fixed conflict of modal opening issue with Branch Manager Plugin
+
+**Extension - Recruitment**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+- [update] Multiple file uploading while applying for a job post
+- [update] All attachments will be shown in Resume section of applicant details page
+- [update] In the personal details section of applicants, fields with empty value will not be shown
+
+**Extension - Deals**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+- [fix] Currency symbol of deal value was not showing correctly in deal details page
+
+**Extension - HR frontend**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - Attendance**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - Advance Leave Management**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - Payroll**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - WooCommerce**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - Document Manager**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - Payment Gateway**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - SMS Notification**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - Zendesk**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - HelpScout Integration**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - HubSpot Contact Sync**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - Mailchimp Contact Sync**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - Salseforce Contact Sync**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - Awesome Support**
+- [update] Optimization of UI/UX in settings page to make the usability smoother
+
+**Extension - Inventory**
+- [fix] Some script localization issues
+
+**Extension - Reimbursement**
+- [fix] Some script localization issues
+
+
 = v1.2.1 -> June 30, 2021 =
 --------------------------
 
@@ -149,7 +215,7 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 **Extension - Recruitment**
 - [update] Added more dynamic content support in the email template of new job application
 
-**Extension - HR frontend**
+**Extension - HR Frontend**
 - [fix] Attendance self service widget was not showing on HR frontend
 
 **Extension - HubSpot Contacts Sync**
