@@ -3,9 +3,9 @@ Contributors: tareq1988, nizamuddinbabu, wedevs
 Donate Link: https://tareq.co/donate
 Tags: business manager, erp, accounting, crm, hr, project manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
-Tested up to: 5.7.2
+Tested up to: 5.8
 Requires PHP: 5.6
-Stable tag: 1.2.2
+Stable tag: 1.2.3
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,57 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 
 == Changelog ==
+
+= v1.2.3 -> August 17, 2021 =
+--------------------------
+
+**ERP Pro Core**
+- [new] Sales return report
+- [new] Purchase return report
+- [new] Agency wise purchase vat report
+- [new] Transaction wise purchase vat report
+- [new] Category wise purchase vat report
+- [new] Vendor wise purchase vat report
+- [fix] Particulars were not showing in sales return invoice
+- [fix] Particulars were not showing in purchase return invoice
+
+**Extension - WooCommerce**
+- [new] Synchronization between WooCommerce order refund and Accounting sale return
+- [new] Synchronization between WooCommerce and Accounting Tax system for orders
+- [new] Synchronization between WooCommerce and Accounting Tax system for products
+- [update] Shipping synchronization for WooCommerce orders
+- [fix] WooCommerce order note loading issue in CRM activities
+
+**Extension - Recruitment**
+- [update] Multiple documents download support on jobseeker list
+- [update] Metabox design in employee tab
+- [update] Candidate send email link has been moved to internal email sending page
+- [update] Can select Email templates now when sending email to Candidate
+- [fix] Send email candidate using SMTP was not working
+- [fix] Some sanitization for input fields to improve security
+- [fix] Helptext was not showing in job application form
+
+**Extension - Inventory**
+- [update] Inventory synchronization for sales return
+- [update] Inventory synchronization for purchase return
+
+**Extension - Attendance**
+- [update] Metabox design in employee tab
+- [fix] Fixed some errors in Attendance
+
+**Extension - Reimbursement**
+- [fix] Some design conflict with elementor in reimbursement request list
+
+**Extension - Assets**
+- [update] Metabox design in employee tab
+- [fix] Some typo mistakes in allotment status
+
+**Extension - Payroll**
+- [update] Metabox design in employee tab
+
+**Extension - Payment Gateway**
+- [fix] Some backend issues for optimization
+
 
 = v1.2.2 -> July 15, 2021 =
 --------------------------
