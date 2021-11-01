@@ -3,9 +3,9 @@ Contributors: tareq1988, nizamuddinbabu, wedevs
 Donate Link: https://tareq.co/donate
 Tags: business manager, erp, accounting, crm, hr, project manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
-Tested up to: 5.8
+Tested up to: 5.8.1
 Requires PHP: 5.6
-Stable tag: 1.2.3
+Stable tag: 1.2.4
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,24 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 
 == Changelog ==
+
+= v1.2.4 -> October 12, 2021 =
+--------------------------
+
+**ERP Pro Core**
+- [fix] Customizable life stage settings were not working
+- [fix] Some codebase issues to avoid any probable conflict
+
+**Extension - Payment Gateway**
+- [update] Stripe package version to maintain compatibility
+
+**Extension - Recruitment**
+- [fix] HTML validation was not working for job application required fields
+
+**Extension - Salesforce Contacts Sync**
+- [fix] Salesforce api response error messages were not showing properly
+- [fix] Some data sanitizations were not applied correctly
+
 
 = v1.2.3 -> August 17, 2021 =
 --------------------------
