@@ -3,9 +3,9 @@ Contributors: tareq1988, nizamuddinbabu, wedevs
 Donate Link: https://tareq.co/donate
 Tags: business manager, erp, accounting, crm, hr, project manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
-Tested up to: 6.0
+Tested up to: 6.1.1
 Requires PHP: 5.6
-Stable tag: 1.2.7
+Stable tag: 1.3.0
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -138,6 +138,13 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 
 == Changelog ==
+
+= v1.3.0 -> January 11, 2023 =
+--------------------------
+
+- [Update] - Update project to composer version 2.
+- [Enhancement] - Bug fix and reliability improvements across core and all premium add-ons.
+
 
 = v1.2.7 -> May 27, 2021 =
 --------------------------
