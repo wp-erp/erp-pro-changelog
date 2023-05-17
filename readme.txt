@@ -139,6 +139,15 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 == Changelog ==
 
+= v1.3.2 -> May 17, 2023 =
+--------------------------
+
+- [FIX] In job seeker list table, there was a bug. Now it’s fixed.
+- [FIX] Handle PHP Notice in CRM Deals module for future reference.
+- [FIX] Currency issue in CRM Deals module.
+- [FIX] Announcement not updated from HR frontend.
+- [ADD] On Woocommerce order import, we integrated more specific error message.
+
 = v1.3.1 -> February 13, 2023 =
 --------------------------
 
