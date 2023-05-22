@@ -3,9 +3,9 @@ Contributors: tareq1988, nizamuddinbabu, wedevs
 Donate Link: https://tareq.co/donate
 Tags: business manager, erp, accounting, crm, hr, project manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
-Tested up to: 6.1.1
+Tested up to: 6.2
 Requires PHP: 5.6
-Stable tag: 1.3.1
+Stable tag: 1.3.2
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -139,6 +139,8 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 == Changelog ==
 
+WP ERP Pro
+
 = v1.3.2 -> May 17, 2023 =
 --------------------------
 
@@ -159,8 +161,70 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 - [Update] - Update project to composer version 2.
 - [Enhancement] - Bug fix and reliability improvements across core and all premium add-ons.
 
+= v1.2.10 -> October 13, 2022 =
+--------------------------
 
-= v1.2.7 -> May 27, 2021 =
+**Extension - Recruitment**
+
+- [update] Support for multiple files upload while adding candidate from admin panel
+- [fix] Error while parsing jobseeker list email
+- [fix] Some inconsistencies regarding admin top bar links
+- [fix] Pay rate inconsistencies
+- [fix] Some texts were not translatable
+
+= v1.2.9 -> August 26, 2022 =
+--------------------------
+
+**ERP Pro Core**
+- [fix] Error while running the updater
+
+**Extension - Payroll**
+- [fix] Error while updating bank and tax info of Payroll from employee details page
+- [fix] Error while creating pay calendar (In case of PHP 8)
+
+**Extension - Recruitment**
+- [fix] Fractional values in pay rate were not supported while hiring a candidate as employee
+
+**Extension - Inventory**
+- [fix] Inventory product purchase report was not working properly
+
+**Extension - Assets**
+- [fix] Some compatibility issues
+
+= v1.2.8 -> June 15, 2022 =
+--------------------------
+
+**ERP Pro Core**
+- [update] Support for fractional quantity during transactions (Accounting)
+- [fix] All people were not being loaded in filter dropdown for transaction (Accounting)
+- [fix] Uploading image for users’ profile was throwing error (Accounting)
+
+**Extension - Mailchimp Contacts Sync**
+- [new] Automated contact synchronization option between CRM and Mailchimp
+
+**Extension - WooCommerce**
+- [fix] Accounting thousand separator conflict with WooCommerce thousand separator
+
+**Extension - Inventory**
+- [fix] Parsing inventory data was not correct in some cases
+- [fix] Pagination not working for the inventory product
+
+**Extension - HelpScout Integration**
+- [fix] API endpoint was throwing error in some cases
+
+**Extension - Workflow**
+- [fix] Improper timezone mapping issue
+
+**Extension - Recruitment**
+- [fix] Localization of experience type was not working
+
+**Extension - Reimbursement**
+- [fix] Report was not loading
+
+**Extension - Attendance**
+- [fix] Some issues in the backend
+
+= v1.2.7 -> May 27, 2022 =
 --------------------------
 
 **ERP Pro Core**
@@ -168,7 +232,6 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 **Extension - SMS Notification **
 - [fix] Some compatibility issues with the core
-
 
 = v1.2.6 -> December 24, 2021 =
 --------------------------
@@ -181,7 +244,6 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 **Extension - WooCommerce**
 - [fix] Some functionalities in settings were generating error when CRM module was not active
 - [fix] Some script loading issues
-
 
 = v1.2.5 -> November 04, 2021 =
 --------------------------
@@ -237,7 +299,7 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 **Extension - Recruitment**
 - [update] Multiple documents download support on jobseeker list
 - [update] Metabox design in employee tab
-- [update] Candidate send email link has been moved to internal email sending page
+​​- [update] Candidate send email link has been moved to internal email sending page
 - [update] Can select Email templates now when sending email to Candidate
 - [fix] Send email candidate using SMTP was not working
 - [fix] Some sanitization for input fields to improve security
@@ -255,7 +317,7 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 - [fix] Some design conflict with elementor in reimbursement request list
 
 **Extension - Assets**
-- [update] Metabox design in employee tab
+[update] Metabox design in employee tab
 - [fix] Some typo mistakes in allotment status
 
 **Extension - Payroll**
@@ -341,7 +403,7 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 **Extension - Recruitment**
 - [update] Added more dynamic content support in the email template of new job application
 
-**Extension - HR Frontend**
+**Extension - HR frontend**
 - [fix] Attendance self service widget was not showing on HR frontend
 
 **Extension - HubSpot Contacts Sync**
@@ -530,6 +592,18 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 **Extension - Awesome Support**
 - [new] Added a new submenu inside Integration menu
 - [update] Updated settings tab to move it inside Integration tab
+
+**Extension - Gravity Forms Integration**
+- [update] Updated integration settings as contact forms settings tab has been moved inside CRM tab
+
+**Extension - Payment Gateway**
+- [update] Updated settings tab to move it inside Accounting tab
+
+**Extension - Inventory**
+- [update] Updated menu arrangement to move it inside Products menu
+
+**Extension - Asset Manager**
+- [update] Updated menu to rename it to ‘Assets’
 
 **Extension - SMS Notification**
 - [update] Updated settings tab to move it inside Integration tab
