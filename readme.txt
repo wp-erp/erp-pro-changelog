@@ -5,7 +5,7 @@ Tags: business manager, erp, accounting, crm, hr, project manager, small busines
 Requires at least: 4.4
 Tested up to: 6.2
 Requires PHP: 5.6
-Stable tag: 1.3.2
+Stable tag: 1.3.3
 License: GPLv2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -140,6 +140,14 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 == Changelog ==
 
 WP ERP Pro
+
+= v1.3.3 -> Jun 07, 2023 =
+--------------------------
+
+- 🛠️ [FIX] Duplicates employee while searching from HR Frontend.
+    - While searching for an employee from HR Frontend, it was showing duplicates. Now it’s fixed.
+- 🛠️ [FIX] Selected users not getting announcement email notification.
+    - While creating an announcement, if you select users from the user list, they will not get the email notification. Now it’s fixed.
 
 = v1.3.2 -> May 17, 2023 =
 --------------------------
