@@ -141,6 +141,12 @@ No, WP ERP and its add-ons do not support multisite WordPress installation.
 
 WP ERP Pro
 
+= v1.3.4 -> Sep 21, 2023 =
+--------------------------
+- 🛠️ [FIX] Assigning assets to employees from HR.
+- 🛠️ [FIX] Activating all Modules gives FATAL Error.
+- 🛠️ [FIX] Creating a To-Do list for Candidate gives FATAL Error.
+
 = v1.3.3 -> Jun 07, 2023 =
 --------------------------
 
